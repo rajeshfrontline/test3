@@ -43,7 +43,7 @@
     "nyc": "^13.1.0"
   },
   "dependencies": {
-    "inquirer": "^6.2.1"
+    "inquirer": "^7.0.5"
   },
   "repository": {
     "type": "git",
